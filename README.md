@@ -1,4 +1,4 @@
-#🚀Tic Tac Toe - C# Console App
+# 🚀Tic Tac Toe - C# Console App
 This is a Tic Tac Toe game developed in C# using .NET 8.0.
 The project runs in the console and includes:
 
@@ -8,7 +8,7 @@ Integration with a simulated API to register the result
 
 Local result saving in a file named placar.txt
 
-#🎮 How to Play
+# 🎮 How to Play
 Clone the project in Visual Studio
 
 Run the project (JogoDaVelhaAPI) as a console application
