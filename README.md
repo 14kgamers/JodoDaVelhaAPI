@@ -8,6 +8,17 @@ Integration with a simulated API to register the result
 
 Local result saving in a file named placar.txt
 
+# 📁 project structure
+- JogoDaVelhaAPI/
+- │
+- ├── Program.cs                 → Entry point
+- ├── Game/
+- │   ├── GameManager.cs         → Main logic of the game
+- │   ├── Board.cs               → Board logic
+- │   └── Player.cs              → Represents the players
+- ├── Services/
+- │   └── ApiService.cs          → Communication with the API (HttpClient)
+
 # 🎮 How to Play
 Clone the project in Visual Studio
 
