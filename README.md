@@ -34,4 +34,4 @@ A victory message
 
 Or a draw
 
-Result sent to the simulated API and saved locally in placar.txt
+Result sent to the simulated API and saved locally in placar.txt.
